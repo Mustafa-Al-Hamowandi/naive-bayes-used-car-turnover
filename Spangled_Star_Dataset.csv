@@ -1,0 +1,101 @@
+Vehicle_ID,Year,Make,Model,Type,Mileage_Band,Listed_Price,Mileage,Fuel_Type,Transmission,Date_Listed,Date_Sold,Status,Days_On_Lot,Sold_Quickly,Amount_of_owners,Condotion,Drivetrain,Number_of_accidents,Accident_severity,Imported_Cars,Title
+SSA-0001,2023,Dodge,Durango,SUV,Medium,34990,42825,Gasoline,Automatic,2026-09-30,,Available,36,No,1 Owner,Excellent,AWD,1,Minor,,Clean
+SSA-0002,2020,Ram,1500 Crew Cab,Truck,Medium,31490,58311,Gasoline,Automatic,2026-09-30,,Available,36,No,2 Owner,Excellent,4WD,1,,,Rebuilt/Salvage
+SSA-0003,2022,Dodge,Charger,Sedan,Low,23900,20111,Gasoline,Automatic,2026-09-30,,Available,36,No,2 Owner,Excellent,AWD,1,Minor,,Clean
+SSA-0004,2014,Toyota,4Runner,SUV,Low,21990,35120,Gasoline,Automatic,2026-09-30,,Available,36,No,3 Owner,Excellent,4WD,2,Minor/Moderate,,Branded
+SSA-0005,2021,Jeep,Grand Cherokee,SUV,Medium,20990,54124,Gasoline,Automatic,2026-09-30,,Available,36,No,2 Owner,Excellent,4WD,0,,,Clean
+SSA-0006,2023,Hyundai,Tucson,SUV,Low,20900,12123,Gasoline,Automatic,2026-10-02,,Available,34,No,1 Owner,Excellent,FWD,0,,,Clean
+SSA-0007,2015,Lexus,Is 250,Sedan,Medium,16990,73231,Gasoline,Automatic,2026-10-03,,Available,33,No,3 Owner,Excellent,RWD,2,,,Clean
+SSA-0008,2017,Toyota,Rav4,SUV,Very High,16490,127132,Gasoline,Automatic,2026-10-07,,Available,29,,2 Owner,Excellent,AWD,2,Minor,,Clean
+SSA-0009,2023,Kia,Forte,Sedan,Low,15990,29155,Gasoline,Automatic,2026-10-07,,Available,29,,2 Owner,Excellent,FWD,1,Minor,,Clean
+SSA-0010,2017,Jeep,Grand Cherokee,SUV,High,15990,100164,Gasoline,Automatic,2026-10-07,,Available,29,,3 Owner,Excellent,4WD/RWD,3,Minor,,Clean
+SSA-0011,2018,Ford,Focus,Hatchback,High,15900,95042,Gasoline,Manual,2026-10-07,,Available,29,,2 Owner,Excellent,FWD,1,Minor,,Clean
+SSA-0012,2021,Gmc,Terrain,SUV,High,14990,100237,Gasoline,Automatic,2026-10-07,,Available,29,,3 Owner,Excellent,AWD,1,,,Clean
+SSA-0013,2017,Chrysler,300,Sedan,High,14900,100187,Gasoline,Automatic,2026-10-15,,Available,21,,3 Owner,Excellent,AWD,1,Minor,,Clean
+SSA-0014,2020,Jeep,Compass,SUV,Medium,14490,42762,Gasoline,Automatic,2026-10-15,,Available,21,,2 Owner,Excellent,FWD/4WD,1,Moderate,,Clean
+SSA-0015,2018,Dodge,Durango,SUV,Very High,13990,149682,Gasoline,Automatic,2026-10-15,,Available,21,,3 Owner,Excellent,AWD,1,Minor,,Clean
+SSA-0016,2021,Chrysler,Pacifica,SUV,High,13990,111421,Gasoline,Automatic,2026-10-15,,Available,21,,2 Owner,Excellent,FWD,3,Minor,,Clean
+SSA-0017,2014,Dodge,Challenger,Sedan,High,13900,91344,Gasoline,Manual,2026-10-15,,Available,21,,5 Owner,Excellent,RWD,3,Minor,,Clean
+SSA-0018,2021,Volkswagen,Passat,Sedan,Medium,13900,67593,Gasoline,Automatic,2026-10-15,,Available,21,,3 Owner,Excellent,FWD,1,Minor,,Clean
+SSA-0019,2021,Chevrolet,Equinox,SUV,High,13490,91104,Gasoline,Automatic,2026-10-15,,Available,21,,3 Owner,Excellent,AWD,3,Minor,,Clean
+SSA-0020,2020,Ford,Edge,SUV,High,12990,98890,Gasoline,Automatic,2026-10-21,,Available,15,,2 Owner,Excellent,AWD,0,,,Clean
+SSA-0021,2020,Jeep,Compass,SUV,High,12990,87578,Gasoline,Automatic,2026-10-21,,Available,15,,2 Owner,Excellent,FWD/4WD,2,Minor,,Clean
+SSA-0022,2019,Jeep,Cherokee,SUV,Medium,12900,74047,Gasoline,Automatic,2026-10-21,,Available,15,,3 Owner,Excellent,FWD/4WD,1,Minor,,Clean
+SSA-0023,2014,Honda,Accord,Sedan,High,12800,97709,Gasoline,Automatic,2026-10-21,,Available,15,Yes,2 Owner,Excellent,AWD,0,,,Clean
+SSA-0024,2021,Jeep,Compass,SUV,Medium,12500,67968,Gasoline,Automatic,2026-10-21,,Available,15,,2 Owner,Excellent,FWD,1,Minor,,Clean
+SSA-0025,2020,Chevrolet,Equinox,SUV,High,12500,88915,Gasoline,Automatic,2026-10-21,,Available,15,,3 Owner,Excellent,AWD,2,Minor/Moderate,,Clean
+SSA-0026,2017,Toyota,Camry,Sedan,High,12500,86811,Gasoline,Automatic,2026-10-21,,Available,15,,3 Owner,Excellent,FWD,2,Minor,,Clean
+SSA-0027,2018,Bmw,320I,Sedan,High,12500,84099,Gasoline,Automatic,2026-10-25,,Available,11,,3 Owner,Excellent,AWD,2,Minor/Moderate,,Clean
+SSA-0028,2017,Jeep,Grand Cherokee,SUV,Very High,11990,148991,Gasoline,Automatic,2026-10-28,,Available,8,,1 Owner,Excellent,RWD/4WD,2,Minor/Moderate,,Clean
+SSA-0029,2018,Jeep,Compass,SUV,High,10990,100436,Gasoline,Automatic,2026-10-28,,Available,8,,4 Owner,Excellent,FWD/4WD,2,Minor/Moderate,,Clean
+SSA-0030,2018,Chevrolet,Malibu,Sedan,High,9990,103697,Gasoline,Automatic,2026-09-30,,Available,36,No,2 Owner,Excellent,FWD,0,,,Clean
+SSA-0031,2015,Subaru,Outback,SUV,Very High,8990,147563,Gasoline,Automatic,2026-09-30,,Available,36,No,2 Owner,Excellent,AWD,0,,,Clean
+SSA-0032,2013,Honda,Accord,Coupe,Very High,8490,134896,Gasoline,Automatic,2026-10-27,,Available,9,,5 Owner,Excellent,FWD,0,,,Clean
+SSA-0033,2017,Hyundai,Elantra,Sedan,High,7990,89615,Gasoline,Automatic,2026-10-27,,Available,9,,3 Owner,Excellent,FWD,2,Minor,,Clean
+SSA-0034,2015,Hyundai,Elantra,Sedan,High,7990,80351,Gasoline,Automatic,2026-10-27,,Available,9,,3 Owner,Excellent,FWD,3,Minor,,Clean
+SSA-0035,2016,Jeep,Renegade,SUV,High,7990,101412,Gasoline,Automatic,2026-10-27,,Available,9,,2 Owner,Excellent,FWD/4WD,3,Minor,,Clean
+SSA-0036,2010,Volkswagen,Tiguan,SUV,Medium,7490,68622,Gasoline,Automatic,2026-10-27,,Available,9,,3 Owner,Excellent,FWD,2,Minor,,Clean
+SSA-0037,2017,Hyundai,Elantra,Sedan,Very High,6990,120280,Gasoline,Automatic,2026-10-27,,Available,9,,2 Owner,Excellent,FWD,3,Minor/Moderate,,Clean
+SSA-0038,2018,Dodge,Durango,SUV,High,15990,118036,Gasoline,Automatic,2026-01-27,2026-03-02,Sold,37,No,3 Owner,Excellent,AWD,0,,,Clean
+SSA-0039,2020,Dodge,Charger,Sedan,Low,26990,13772,Gasoline,Automatic,2026-10-29,2026-11-01,Sold,3,Yes,3 Owner,Excellent,RWD,2,Moderate,,Rebuilt/Salvage
+SSA-0040,2023,Dodge,Challenger,Sedan,Medium,20990,58618,Gasoline,Manual,2026-10-29,2026-11-04,Sold,6,Yes,2 Owner,Excellent,RWD,1,Minor,,Salvage
+SSA-0041,2022,Dodge,Charger,Sedan,Medium,19990,53615,Gasoline,Manual,2026-10-29,2026-11-04,Sold,6,Yes,3 Owner,Excellent,RWD,0,,,Clean
+SSA-0042,2019,Jeep,Grand Cherokee,SUV,High,18990,81530,Gasoline,Manual,2025-10-29,2025-11-05,Sold,7,Yes,3 Owner,Excellent,RWD/4WD,1,Minor,,Clean
+SSA-0043,2018,Bmw,530I,Sedan,High,14990,100367,Gasoline,Manual,2026-05-31,2026-06-06,Sold,6,Yes,4 Owner,Excellent,RWD,1,Minor,,Clean
+SSA-0044,2011,Mercedes,Benz,Sedan,Medium,8990,66166,Gasoline,Automatic,2026-09-30,2026-10-05,Sold,5,Yes,3 Owner,Good,AWD,2,Minor/Moderate,,Clean
+SSA-0045,2015,Dodge,Challenger,Sedan,Medium,21990,60000,Gasoline,Manual,2026-09-30,2026-10-11,Sold,11,Yes,3 Owner,Excellent,RWD,0,,,Clean
+SSA-0046,2022,Dodge,Charger,Sedan,Low,36000,12000,Gasoline,Automatic,2026-01-31,2026-04-27,Sold,86,No,1 Owner,Good,RWD,0,,,Clean
+SSA-0047,2018,Subaru,WRX,Sedan,Medium,16699,41729,Gasoline,Manual,2026-06-30,2026-08-22,Sold,53,No,3 Owner,Good,AWD,2,,,Rebuilt/Salvage
+SSA-0048,2015,Subaru,WRX,Sedan,High,17500,80569,Gasoline,Manual,2026-05-21,2026-05-30,Sold,9,Yes,8 Owner,Fair,AWD,0,,,Clean
+SSA-0049,2023,Infiniti,Q50 Luxe,Sedan,Low,25990,15000,Gasoline,Automatic,2026-09-30,2026-11-05,Sold,36,No,2 Owner,Excellent,AWD,2,Moderate,,Rebuilt/Salvage
+SSA-0050,2020,Infiniti,Q50 Luxe,Sedan,Low,16990,20000,Gasoline,Automatic,2026-09-30,2026-11-05,Sold,36,No,4 Owner,Excellent,AWD,3,Moderate,,Salvage
+SSA-0051,2020,Infiniti,Q50 Luxe,Sedan,Low,18990,18000,Gasoline,Automatic,2026-09-30,2026-10-11,Sold,11,Yes,2 Owner,Excellent,AWD,0,,,Clean
+SSA-0052,2019,Ford,Explorer,SUV,Low,20990,39500,Gasoline,Automatic,2026-09-30,2026-10-09,Sold,9,Yes,2 Owner,Excellent,FWD/4WD,1,Minor,,Clean
+SSA-0053,2019,Ford,Explorer,SUV,Medium,18990,60277,Gasoline,Automatic,2026-07-11,2026-10-07,Sold,88,No,4 Owner,Excellent,FWD/4WD,3,Minor/Moderate,,Salvage/Rebuilt
+SSA-0054,2017,Ford,Explorer,SUV,Medium,18990,62355,Gasoline,Automatic,2026-09-21,2026-09-28,Sold,7,Yes,5 Owner,Excellent,FWD/4WD,1,,,Salvage/Rebuilt
+SSA-0055,2016,Ford,Explorer,SUV,Low,17990,32569,Gasoline,Automatic,2026-08-31,2026-11-03,Sold,64,No,4 Owner,Good,FWD/4WD,2,Moderate,,Rebuilt/Salvage
+SSA-0056,2017,Audi,A6,Sedan,High,11990,119635,Gasoline,Automatic,2025-04-21,2025-05-22,Sold,31,No,3 Owner,Excellent,AWD,1,Minor,,Clean
+SSA-0057,2019,Toyota,4Runner,SUV,Very High,22990,161218,Gasoline,Automatic,2026-08-10,2026-10-16,Sold,67,No,3 Owner,Excellent,RWD/4WD,0,,,Clean
+SSA-0058,2017,Gmc,Yukon XL,SUV,High,17990,119012,Gasoline,Automatic,2026-09-12,2026-10-31,Sold,49,No,3 Owner,Excellent,RWD/4WD,3,Minor/Moderate,,Clean
+SSA-0059,2020,Honda,Civic,Sedan,Medium,17490,50420,Gasoline,Manual,2026-09-12,2026-09-17,Sold,5,Yes,2 Owner,Good,FWD,1,Moderate,,Clean
+SSA-0060,2018,Honda,Accord,Sedan,High,14900,92264,Gasoline,Automatic,2026-09-20,2026-10-25,Sold,35,No,4 Owner,Excellent,FWD,1,Minor,,Clean
+SSA-0061,2017,Subaru,Outback,SUV,Medium,13500,79625,Gasoline,Automatic,2026-09-30,2026-10-25,Sold,25,Yes,5 Owner,Good,AWD,2,Minor,,Clean
+SSA-0062,2019,Subaru,Outback,SUV,Medium,18490,43332,Gasoline,Automatic,2026-09-20,2026-10-18,Sold,28,Yes,3 Owner,Excellent,AWD,1,Minor,,Clean
+SSA-0063,2024,Subaru,Crosstrek,SUV,Low,18990,14529,Gasoline,Automatic,2025-07-11,2026-06-08,Sold,332,No,2 Owner,Good,AWD,2,Minor/Moderate,,Rebuilt/Salvage
+SSA-0064,2022,Subaru,Outback,SUV,Medium,19990,40853,Gasoline,Automatic,2026-10-01,2026-11-02,Sold,32,No,2 Owner,Excellent,AWD,2,Minor,,Salvage/Rebuilt
+SSA-0065,2018,Subaru,Crosstrek,SUV,Medium,15900,57125,Gasoline,Automatic,2026-06-21,2026-10-04,Sold,105,No,2 Owner,Excellent,AWD,2,Minor,,Branded 
+SSA-0066,2022,Subaru,Outback,SUV,Low,21990,18494,Gasoline,Automatic,2024-05-31,2024-06-13,Sold,13,Yes,3 Owner,Excellent,AWD,1,Minor,,Rebuilt
+SSA-0067,2022,Subaru,Outback,SUV,Low,17550,19112,Gasoline,Automatic,2025-04-01,2025-07-10,Sold,100,No,2 Owner,Good,AWD,2,Severe,,Rebuilt
+SSA-0068,2022,Subaru,Outback,SUV,Low,20990,23801,Gasoline,Automatic,2025-06-30,2025-09-06,Sold,68,No,2 Owner,Excellent,AWD,2,Minor/Moderate,,Rebuilt/Salvage
+SSA-0069,2020,Toyota,Camry,Sedan,Medium,19990,60232,Gasoline,Automatic,2024-07-10,2024-07-24,Sold,14,Yes,3 Owner,Excellent,FWD,2,Minor/Moderate,,Clean
+SSA-0070,2017,Toyota,Camry,Sedan,High,13500,112908,Gasoline,Automatic,2024-08-05,2024-08-17,Sold,12,Yes,3 Owner,Excellent,FWD,1,,,Clean
+SSA-0071,2018,Toyota,Camry,Sedan,Very High,13250,124231,Gasoline,Automatic,2024-08-12,2024-09-24,Sold,43,No,5 Owner,Good,FWD,1,Minor,,Clean
+SSA-0072,2017,Toyota,Rav4,SUV,High,19490,84052,Gasoline,Automatic,2024-07-11,2024-09-23,Sold,74,No,2 Owner,Excellent,AWD,0,,,Clean
+SSA-0073,2017,Toyota,Rav4,SUV,Medium,18900,44964,Gasoline,Automatic,2026-08-05,2026-10-22,Sold,78,No,4 Owner,Excellent,AWD,3,Moderate,,Salvage/Rebuilt
+SSA-0074,2015,Toyota,Rav4,SUV,High,11500,112076,Gasoline,Automatic,2024-10-05,2024-10-17,Sold,12,Yes,3 Owner,Excellent,AWD,3,Minor,,Rebuilt/Salvage
+SSA-0075,2017,Toyota,Rav4,SUV,High,12990,175472,Gasoline,Automatic,2026-10-01,2026-11-04,Sold,34,No,3 Owner,Good,AWD,2,Minor,,Clean
+SSA-0076,2021,Honda,Accord,Sedan,Medium,19990,75619,Gasoline,Automatic,2025-12-15,2025-12-19,Sold,4,Yes,3 Owner,Excellent,FWD,2,Moderate,,Clean
+SSA-0077,2013,Honda,Accord,Sedan,Medium,11990,45456,Gasoline,Automatic,2026-06-30,2026-07-08,Sold,8,Yes,2 Owner,Good,FWD,3,Minor,,Rebuilt
+SSA-0078,2017,Honda,Civic,Sedan,Medium,14500,"76,,241",Gasoline,Automatic,2024-01-15,2024-03-09,Sold,54,No,2 Owner,Excellent,FWD,3,Minor,,Clean
+SSA-0079,2016,Honda,Cr-v-exl,SUV,Medium,13990,65664,Gasoline,Automatic,2024-11-14,2025-01-22,Sold,69,No,4 Owner,Good,AWD,3,Minor,,Rebuilt/Salvage
+SSA-0080,2018,Hyundai,Elantra,SUV,Medium,9990,73273,Gasoline,Automatic,2024-01-15,2024-04-08,Sold,84,No,4 Owner,Excellent,FWD,0,,,Clean
+SSA-0081,2012,Hyundai,Santa-fe,SUV,Medium,8990,55613,Gasoline,Automatic,2024-10-05,2025-01-03,Sold,90,No,5 Owner,Excellent,AWD,3,Moderate/Severe,,Rebuilt/Salvage
+SSA-0082,2011,Hyundai,Santa-fe,SUV,High,5800,97686,Gasoline,Automatic,2024-11-25,2024-12-03,Sold,8,Yes,2 Owner,Good,AWD,3,Minor/Moderate,,Clean
+SSA-0083,2018,Honda,Accord,Sedan,High,14490,119688,Gasoline,Automatic,2025-10-25,2026-01-13,Sold,80,No,5 Owner,Fair,FWD,3,Minor/Moderate,,Clean
+SSA-0084,2012,Honda,Civic,Coupe,High,9900,99999,Gasoline,Manual,2025-10-25,2025-11-07,Sold,13,Yes,6 Owner,Fair,FWD,2,Minor,,Clean
+SSA-0085,2012,Honda,Civic,Coupe,High,8490,46463,Gasoline,Manual,2024-10-01,2024-11-26,Sold,56,No,2 Owner,Excellent,FWD,2,Minor,,Rebuilt/Salvage
+SSA-0086,2014,Honda,Accord,Sedan,Low,13500,27922,Gasoline,Manual,2026-10-13,2026-11-07,Sold,25,Yes,2 Owner,Excellent,FWD,3,Moderate,,Rebuilt
+SSA-0087,2008,Honda,Accord,Sedan,High,7250,88825,Gasoline,Automatic,2024-10-01,2024-10-04,Sold,3,Yes,4 Owner,Excellent,FWD,2,Minor,,Salvage/Rebuilt
+SSA-0088,2002,Buick,Century,Sedan,Medium,4490,64122,Gasoline,Manual,2026-10-12,2026-10-27,Sold,15,Yes,2 Owner,Fair,FWD,1,Minor,,Clean
+SSA-0089,2018,Ford,Edge,SUV,Medium,12490,73498,Gasoline,Manual,2026-08-15,2026-10-06,Sold,52,No,4 Owner,Good,AWD,0,,,Clean
+SSA-0090,2014,Ford,Escape,SUV,Medium,11990,45553,Gasoline,Automatic,2026-06-15,2026-08-16,Sold,62,No,2 Owner,Good,AWD,0,,,Clean
+SSA-0091,2018,Ford,Escape,SUV,Medium,13500,66028,Gasoline,Automatic,2026-06-15,2026-09-04,Sold,81,No,3 Owner,Excellent,FWD/4WD,0,,,Clean
+SSA-0092,2018,Ford,Escape,SUV,Medium,12250,65294,Gasoline,Automatic,2024-06-28,2024-07-12,Sold,14,Yes,2 Owner,Good,FWD/4WD,0,,,Clean
+SSA-0093,2016,Ford,Explorer,SUV,Medium,14290,79193,Gasoline,Automatic,2024-06-12,2024-10-01,Sold,111,No,1 Owner,Excellent,FWD/4WD,3,Minor,,Rebuilt/Salvage
+SSA-0094,2017,Ford,Explorer,SUV,High,12990,108672,Gasoline,Automatic,2024-08-01,2024-08-05,Sold,4,Yes,4 Owner,Good,FWD/4WD,0,,,Clean
+SSA-0095,2018,Ford,Escape,SUV,Medium,11900,64798,Gasoline,Automatic,2025-08-12,2025-10-01,Sold,50,No,4 Owner,Good,FWD/4WD,0,,,Clean
+SSA-0096,2019,Ford,Explorer,SUV,Medium,18890,50231,Gasoline,Automatic,2026-08-12,2026-09-26,Sold,45,No,2 Owner,Excellent,FWD/4WD,1,Minor,,Clean
+SSA-0097,2017,Ford,Explorer,SUV,Medium,18990,62325,Gasoline,Automatic,2026-08-14,2026-11-08,Sold,86,No,1 Owner,Good,FWD/4WD,2,Minor/Moderate,,Rebuilt/Salvage
+SSA-0098,2017,Ford,Explorer,SUV,Medium,15990,79824,Gasoline,Automatic,2024-06-28,2024-07-09,Sold,11,Yes,3 Owner,Fair,FWD/4WD,3,Moderate,,Rebuilt/Salvage
+SSA-0099,2018,Ford,Explorer,SUV,Medium,14900,59053,Gasoline,Automatic,2024-05-15,2024-07-09,Sold,55,No,5 Owner,Fair,FWD/4WD,0,,,Clean
+SSA-0100,2012,Lexus,Es350,SUV,High,12500,104000,Gasoline,Automatic,2025-12-01,2026-01-30,Sold,60,No,1 Owner,Excellent,AWD,0,,,Clean
